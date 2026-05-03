@@ -12,15 +12,6 @@ $$\mathcal{L}_\text{total} = \mathcal{L}_\text{src} + \lambda_a \mathcal{L}_\tex
 
 with $\lambda_a = \gamma_d = 1.0$ fixed across all target domains.
 
-## Results
-
-| Target Domain | AUC (mean ± std, 3 seeds) |
-|---|---|
-| INbreast (Portugal) | 0.812 ± 0.024 |
-| CMMD (China) | 0.811 ± 0.010 |
-| CDD-CESM (Egypt) | 0.889 ± 0.007 |
-
-Average target AUC: **0.84** (vs. 0.65 source-only baseline).
 
 ## Data Layout
 
