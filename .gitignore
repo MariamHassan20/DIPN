@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+checkpoints/
+experiments_logs/
+data/staging/
+*.npz
+*.json
+!configs/
+sensitivity_*.json
+nohup.out
+.venv/
